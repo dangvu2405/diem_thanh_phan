@@ -1,0 +1,16 @@
+C:\Users\vuwin\source\repos\dangky\dangky\bin\Debug\net8.0-windows\dangky.exe
+C:\Users\vuwin\source\repos\dangky\dangky\bin\Debug\net8.0-windows\dangky.deps.json
+C:\Users\vuwin\source\repos\dangky\dangky\bin\Debug\net8.0-windows\dangky.runtimeconfig.json
+C:\Users\vuwin\source\repos\dangky\dangky\bin\Debug\net8.0-windows\dangky.dll
+C:\Users\vuwin\source\repos\dangky\dangky\bin\Debug\net8.0-windows\dangky.pdb
+C:\Users\vuwin\source\repos\dangky\dangky\obj\Debug\net8.0-windows\dangky.Form1.resources
+C:\Users\vuwin\source\repos\dangky\dangky\obj\Debug\net8.0-windows\dangky.csproj.GenerateResource.cache
+C:\Users\vuwin\source\repos\dangky\dangky\obj\Debug\net8.0-windows\dangky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuwin\source\repos\dangky\dangky\obj\Debug\net8.0-windows\dangky.AssemblyInfoInputs.cache
+C:\Users\vuwin\source\repos\dangky\dangky\obj\Debug\net8.0-windows\dangky.AssemblyInfo.cs
+C:\Users\vuwin\source\repos\dangky\dangky\obj\Debug\net8.0-windows\dangky.csproj.CoreCompileInputs.cache
+C:\Users\vuwin\source\repos\dangky\dangky\obj\Debug\net8.0-windows\dangky.dll
+C:\Users\vuwin\source\repos\dangky\dangky\obj\Debug\net8.0-windows\refint\dangky.dll
+C:\Users\vuwin\source\repos\dangky\dangky\obj\Debug\net8.0-windows\dangky.pdb
+C:\Users\vuwin\source\repos\dangky\dangky\obj\Debug\net8.0-windows\dangky.genruntimeconfig.cache
+C:\Users\vuwin\source\repos\dangky\dangky\obj\Debug\net8.0-windows\ref\dangky.dll
