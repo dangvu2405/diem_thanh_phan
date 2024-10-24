@@ -1,0 +1,16 @@
+C:\Users\vuwin\source\repos\dangnhap\dangnhap\bin\Debug\net8.0-windows\dangnhap.exe
+C:\Users\vuwin\source\repos\dangnhap\dangnhap\bin\Debug\net8.0-windows\dangnhap.deps.json
+C:\Users\vuwin\source\repos\dangnhap\dangnhap\bin\Debug\net8.0-windows\dangnhap.runtimeconfig.json
+C:\Users\vuwin\source\repos\dangnhap\dangnhap\bin\Debug\net8.0-windows\dangnhap.dll
+C:\Users\vuwin\source\repos\dangnhap\dangnhap\bin\Debug\net8.0-windows\dangnhap.pdb
+C:\Users\vuwin\source\repos\dangnhap\dangnhap\obj\Debug\net8.0-windows\dangnhap.Form1.resources
+C:\Users\vuwin\source\repos\dangnhap\dangnhap\obj\Debug\net8.0-windows\dangnhap.csproj.GenerateResource.cache
+C:\Users\vuwin\source\repos\dangnhap\dangnhap\obj\Debug\net8.0-windows\dangnhap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuwin\source\repos\dangnhap\dangnhap\obj\Debug\net8.0-windows\dangnhap.AssemblyInfoInputs.cache
+C:\Users\vuwin\source\repos\dangnhap\dangnhap\obj\Debug\net8.0-windows\dangnhap.AssemblyInfo.cs
+C:\Users\vuwin\source\repos\dangnhap\dangnhap\obj\Debug\net8.0-windows\dangnhap.csproj.CoreCompileInputs.cache
+C:\Users\vuwin\source\repos\dangnhap\dangnhap\obj\Debug\net8.0-windows\dangnhap.dll
+C:\Users\vuwin\source\repos\dangnhap\dangnhap\obj\Debug\net8.0-windows\refint\dangnhap.dll
+C:\Users\vuwin\source\repos\dangnhap\dangnhap\obj\Debug\net8.0-windows\dangnhap.pdb
+C:\Users\vuwin\source\repos\dangnhap\dangnhap\obj\Debug\net8.0-windows\dangnhap.genruntimeconfig.cache
+C:\Users\vuwin\source\repos\dangnhap\dangnhap\obj\Debug\net8.0-windows\ref\dangnhap.dll

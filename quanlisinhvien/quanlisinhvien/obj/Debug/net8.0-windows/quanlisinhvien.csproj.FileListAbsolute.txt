@@ -1,0 +1,16 @@
+C:\Users\vuwin\source\repos\quanlisinhvien\quanlisinhvien\bin\Debug\net8.0-windows\quanlisinhvien.exe
+C:\Users\vuwin\source\repos\quanlisinhvien\quanlisinhvien\bin\Debug\net8.0-windows\quanlisinhvien.deps.json
+C:\Users\vuwin\source\repos\quanlisinhvien\quanlisinhvien\bin\Debug\net8.0-windows\quanlisinhvien.runtimeconfig.json
+C:\Users\vuwin\source\repos\quanlisinhvien\quanlisinhvien\bin\Debug\net8.0-windows\quanlisinhvien.dll
+C:\Users\vuwin\source\repos\quanlisinhvien\quanlisinhvien\bin\Debug\net8.0-windows\quanlisinhvien.pdb
+C:\Users\vuwin\source\repos\quanlisinhvien\quanlisinhvien\obj\Debug\net8.0-windows\quanlisinhvien.Form1.resources
+C:\Users\vuwin\source\repos\quanlisinhvien\quanlisinhvien\obj\Debug\net8.0-windows\quanlisinhvien.csproj.GenerateResource.cache
+C:\Users\vuwin\source\repos\quanlisinhvien\quanlisinhvien\obj\Debug\net8.0-windows\quanlisinhvien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuwin\source\repos\quanlisinhvien\quanlisinhvien\obj\Debug\net8.0-windows\quanlisinhvien.AssemblyInfoInputs.cache
+C:\Users\vuwin\source\repos\quanlisinhvien\quanlisinhvien\obj\Debug\net8.0-windows\quanlisinhvien.AssemblyInfo.cs
+C:\Users\vuwin\source\repos\quanlisinhvien\quanlisinhvien\obj\Debug\net8.0-windows\quanlisinhvien.csproj.CoreCompileInputs.cache
+C:\Users\vuwin\source\repos\quanlisinhvien\quanlisinhvien\obj\Debug\net8.0-windows\quanlisinhvien.dll
+C:\Users\vuwin\source\repos\quanlisinhvien\quanlisinhvien\obj\Debug\net8.0-windows\refint\quanlisinhvien.dll
+C:\Users\vuwin\source\repos\quanlisinhvien\quanlisinhvien\obj\Debug\net8.0-windows\quanlisinhvien.pdb
+C:\Users\vuwin\source\repos\quanlisinhvien\quanlisinhvien\obj\Debug\net8.0-windows\quanlisinhvien.genruntimeconfig.cache
+C:\Users\vuwin\source\repos\quanlisinhvien\quanlisinhvien\obj\Debug\net8.0-windows\ref\quanlisinhvien.dll
